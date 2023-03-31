@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSDUNIYA
 - 👀 I’m interested in Frontend technolgies & CLI
-- 🌱 I’m currently learning React & hooks,
+- 🌱 Exploring React & Nextjs,
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... jsduniya747@gmail.com
 
